@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Compted
+- 👋 Hi, I’m [@Compted](https://github.com/Compted)
 - 👀 I’m interested in creating discord bot with node.js
 - 🌱 I’m currently learning javascript with node.js
-- 💞️ I’m collaborate with @Mimexe
+- 💞️ I’m collaborate with [@Mimexe](https://github.com/Mimexe)
 - 📫 How to react me email me at: compted463@gmail.com
